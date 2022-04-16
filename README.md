@@ -1,1 +1,1 @@
-this is a web-application about recipes!
+This is a blog about various recipes in various pages.
